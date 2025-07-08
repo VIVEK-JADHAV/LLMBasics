@@ -1,6 +1,4 @@
-Here is a GitHub repository outline summarizing the most important concepts from the provided source, explained in simple terms and formatted in Markdown:
 
-```markdown
 # Important Concepts from Large Language Models (LLMs)
 
 This repository aims to distill key concepts related to Large Language Models (LLMs) and their mechanics, based on an expert's explanation.
@@ -64,4 +62,4 @@ The process of creating a base LLM involves three main training phases:
 
 ## 4. Prompt Engineering
 While not a technical component of the LLM itself, **prompt engineering** is a crucial concept for users. It refers to the art of **asking good questions** or crafting effective prompts, which directly leads to **getting good answers** from the LLM.
-```
+
