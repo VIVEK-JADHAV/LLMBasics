@@ -29,6 +29,8 @@ The entire RAG process relies on two crucial components: **embeddings models** a
 
 #### The RAG Process Flow and LLM Decision Making
 
+![RAG Architecture](./Images/rag-architecture.png)
+
 The process of **RAG technology** involves several steps:
 
 1.  **Document Ingestion**: You upload your documents (e.g., PDFs, CSVs).
