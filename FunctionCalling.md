@@ -16,7 +16,7 @@ In essence, function calling transforms an LLM into an **orchestrator**, capable
 
 ### LLM as an Operating System Analogy
 
-![LLM OS]Images/LLMOS.png
+![LLM OS](./Images/LLMOS.png)
 
 Andrew Karpathy proposes a compelling analogy where an **LLM is viewed as our new operating system**, much like a traditional computer. This analogy provides a helpful framework for understanding how LLMs can integrate and manage diverse functionalities:
 
